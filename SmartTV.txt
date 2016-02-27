@@ -1,5 +1,22 @@
 #EXTM3U
 
+
+
+
+#EXTINF:-1,TV Cine 1 test
+http://tvdasogra.com:8880/live/trial/trial_211/518.ts
+#EXTINF:-1,TVcine 2 test
+http://tvdasogra.com:8880/live/trial/trial_211/520.ts
+#EXTINF:-1,TVCINE 1
+http://tvdasogra.com:8880/live/trial/trial_211/262.ts
+#EXTINF:-1,TVCINE 2
+http://tvdasogra.com:8880/live/trial/trial_211/263.ts
+#EXTINF:-1,TVCINE 3
+http://tvdasogra.com:8880/live/trial/trial_211/264.ts
+#EXTINF:-1,TVCINE 4
+
+
+
 #EXTINF:-1,[COLOR green] [COLOR white][B] [COLOR red]|||[/COLOR] Update 26-2-16 [COLOR red]|||[/COLOR][/B][/COLOR]
 http://jerrymoz.wordpress.com
 #EXTINF:-1,[COLOR green][COLOR yellow][B]Links available in search free on the Internet I am not responsible for your use [COLOR red]||[/COLOR] Links Disponiveis em pesquisa livre na Internet nao me responsabilizo pelo uso dos mesmos[/B][/COLOR]
