@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1,[COLOR magenta][I][B]leon branco (Magellan)[/B][/I][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]» » PORTUGAL« «[/COLOR]
