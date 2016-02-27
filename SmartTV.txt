@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+fox sport
+rtmp://$OPT:rtmp-raw=rtmp://185.82.215.46:3579/vod/ playpath=fun2?e=1431864096&st=tIHrAK8__LM-eQpBzKd0uQ swfUrl=http://streamtechnology.me/flowplayer-3.2.16.swf live=1 pageUrl=http://diresport.es/CANAL2HD.html
+
  #EXTINF:-1,RTP 1
  http://188.138.1.104:8000/live/iptv/iptv/1.ts
  #EXTINF:-1,RTP 2
