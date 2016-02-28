@@ -1,65 +1,33 @@
 #EXTM3U
 
-############################################################################################################################################################
-#EXTINF:-1 tvg-logo="tuga.png" group-title="DESPORTO", [B]***** TRANSMITE JOGOS EQUIPAS PT & LIGAS EUROPEIAS ***** [/B]
-http://jerrymoz.wordpress.com
-############################################################################################################################################################
-#EXTINF:-1, [B]CANAIS TRANSMITEM JOGOS LIGA NOS[/B]
-http://liveonsat.com/ 
-#EXTINF:-1, [B]SITE: http://liveonsat.com/ [/B]
-http://liveonsat.com/ 
-############################################################################################################################################################
-
-#EXTINF:-1 group-title="DESPORTO",SPORTV AMERICAS OFF
-http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master1300kbps.m3u8
-
-#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",SK1 SD low (rtmp)
-rtmp://62.210.89.38:1935/liverepeat?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMi8yMDE2IDY6MTU6NTQgUE0maGFzaF92YWx1ZT11bkU5ZDhmM.nlZakZCT01odU9MK1N3PT0mdmFsaWRtaW51dGVzPTMwMA==/ playpath=budalo swfUrl=http://streamcasttv.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://streamcasttv.biz/embed.php?file=budalo&width=610&height=470
-#EXTINF:-1 group-title="PLEXUS",  SK 3  PLEXUS (da jogos equipas PT)
-plugin://program.plexus/?mode=1&url=acestream://7f1ec4c1307f983b91aef915a896253e78d62df2&mode=1&name=acestream&mode=1&name=SK 3
-
-#EXTINF:-1,ESPN (br)
-http://213.163.65.116:8081/live/espnbr/playlist.m3u8
-#EXTINF:-1 group-title="DESPORTO",Sportv |br| (jogos do benfica em casa)
-http://31.204.128.112:8081/live/sportv/playlist.m3u8
-#EXTINF:-1 group-title="DESPORTO",Sportv |br| |rtmp| (jogos do benfica em casa)
-rtmp://62.210.89.38/liverepeat playpath=201020  swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf?IGOR_RANGEL  pageUrl=http://direct-stream.biz/embedPlayer_.php?c=hnbrr54uu87&vw=468&vh=400
-
-#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",SILK 3 (GEO)
-http://94.43.239.178:8080/CHANNEL222/BITRATE0/playlist.m3u8
-
-#EXTINF:-1 group-title="DESPORTO",SPORTV 1 OFF/ON
-http://31.204.128.112:8081/live/portugal1/playlist.m3u8
-#EXTINF:-1 group-title="DESPORTO",SPORTV3 & BTV2 OFF/ON
-http://31.204.128.112:8081/live/portugal2/playlist.m3u8
-#EXTINF:-1 group-title="DESPORTO",ESPN |br| 
-http://31.204.128.127:8081/live/espnbr/playlist.m3u8
-
-#EXTINF:-1,Benfica 2
-http://178.33.231.219:88/kh1/kh1/87.ch
-#EXTINF:-1,Benfica HD
-http://178.33.231.219:88/kh1/kh1/86.ch
-#EXTINF:-1,Sport TV 1
-http://178.33.231.219:88/kh1/kh1/64.ch
-#EXTINF:-1,Sport TV 2
-http://178.33.231.219:88/kh1/kh1/65.ch
-#EXTINF:-1,Sport TV 3
-http://178.33.231.219:88/kh1/kh1/66.ch
-#EXTINF:-1,Sport TV 4
-http://178.33.231.219:88/kh1/kh1/67.ch
-
 #EXTINF:-1,PT : BENFICA TV 1
 http://top-iptv.zapto.org:8000/live/Aria/Aria/660.m3u8
-#EXTINF:-1,PT : Sport TV 5
-http://top-iptv.zapto.org:8000/live/Aria/Aria/657.m3u8
-#EXTINF:-1,PT : Sport TV 4
-http://top-iptv.zapto.org:8000/live/Aria/Aria/656.m3u8
-#EXTINF:-1,PT : Sport Tv 3
-http://top-iptv.zapto.org:8000/live/Aria/Aria/655.m3u8
-#EXTINF:-1,PT : Sport TV 2 FULL HD
-http://top-iptv.zapto.org:8000/live/Aria/Aria/654.m3u8
-#EXTINF:-1,PT : Sport Tv 1  FULL HD
+#EXTINF:-1,Benfica HD
+http://178.33.231.219:88/kh1/kh1/86.ch
+#EXTINF:-1,Benfica 2
+http://178.33.231.219:88/kh1/kh1/87.ch
+#EXTINF:-1,Sport TV 1
+http://178.33.231.219:88/kh1/kh1/64.ch
+#EXTINF:-1,Sport Tv 1 HD
 http://top-iptv.zapto.org:8000/live/Aria/Aria/653.m3u8
+#EXTINF:-1,Sport TV 2
+http://178.33.231.219:88/kh1/kh1/65.ch
+#EXTINF:-1,Sport TV 2 HD
+http://top-iptv.zapto.org:8000/live/Aria/Aria/654.m3u8
+#EXTINF:-1,Sport TV 3
+http://178.33.231.219:88/kh1/kh1/66.ch
+#EXTINF:-1,Sport Tv 3
+http://top-iptv.zapto.org:8000/live/Aria/Aria/655.m3u8
+#EXTINF:-1,Sport TV 4
+http://178.33.231.219:88/kh1/kh1/67.ch
+#EXTINF:-1,Sport TV 4
+http://top-iptv.zapto.org:8000/live/Aria/Aria/656.m3u8
+#EXTINF:-1,Sport TV 5
+http://top-iptv.zapto.org:8000/live/Aria/Aria/657.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",UFC (rtmp) CHI
 rtmp://182.92.189.193/live/ playpath=h_fight_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos 
