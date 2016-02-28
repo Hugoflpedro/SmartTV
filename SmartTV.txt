@@ -2,9 +2,9 @@
 
 #EXTINF:-1,Benfica TV1
 http://top-iptv.zapto.org:8000/live/Aria/Aria/660.m3u8
-#EXTINF:-1,Benfica HD
+#EXTINF:-1,Benfica TV1 HD
 http://178.33.231.219:88/kh1/kh1/86.ch
-#EXTINF:-1,Benfica 2
+#EXTINF:-1,Benfica TV2
 http://178.33.231.219:88/kh1/kh1/87.ch
 #EXTINF:-1,Sport TV 1
 http://178.33.231.219:88/kh1/kh1/64.ch
@@ -25,8 +25,8 @@ http://top-iptv.zapto.org:8000/live/Aria/Aria/656.m3u8
 #EXTINF:-1,Sport TV 5
 http://top-iptv.zapto.org:8000/live/Aria/Aria/657.m3u8
 
-#EXTINF:-1 RTP Internacional
+#EXTINF:-1,RTP Internacional
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15
 
-#EXTINF:-1, CANAL CINE
+#EXTINF:-1,CANAL CINE
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
