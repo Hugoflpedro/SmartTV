@@ -8,22 +8,38 @@ http://178.33.231.219:88/kh1/kh1/86.ch
 http://178.33.231.219:88/kh1/kh1/87.ch
 #EXTINF:-1,Sport TV 1
 http://178.33.231.219:88/kh1/kh1/64.ch
-#EXTINF:-1,Sport Tv 1 HD
+#EXTINF:-1,Sport TV1
+http://ts-iptv.dyndns.tv:8000/live/mario/nunes/35.ts
+#EXTINF:-1,Sport TV 1 HD
 http://top-iptv.zapto.org:8000/live/Aria/Aria/653.m3u8
 #EXTINF:-1,Sport TV 2
 http://178.33.231.219:88/kh1/kh1/65.ch
+#EXTINF:-1,Sport TV2
+http://ts-iptv.dyndns.tv:8000/live/mario/nunes/36.ts
 #EXTINF:-1,Sport TV 2 HD
 http://top-iptv.zapto.org:8000/live/Aria/Aria/654.m3u8
 #EXTINF:-1,Sport TV 3
 http://178.33.231.219:88/kh1/kh1/66.ch
-#EXTINF:-1,Sport Tv 3
+#EXTINF:-1,Sport TV 3
 http://top-iptv.zapto.org:8000/live/Aria/Aria/655.m3u8
+#EXTINF:-1,Sport TV3
+http://ts-iptv.dyndns.tv:8000/live/mario/nunes/37.ts
 #EXTINF:-1,Sport TV 4
 http://178.33.231.219:88/kh1/kh1/67.ch
 #EXTINF:-1,Sport TV 4
 http://top-iptv.zapto.org:8000/live/Aria/Aria/656.m3u8
+#EXTINF:-1,Sport TV4
+http://ts-iptv.dyndns.tv:8000/live/mario/nunes/38.ts
 #EXTINF:-1,Sport TV 5
 http://top-iptv.zapto.org:8000/live/Aria/Aria/657.m3u8
+#EXTINF:-1,Sport TV5
+http://ts-iptv.dyndns.tv:8000/live/mario/nunes/39.ts
+#EXTINF:-1,Benfica TV 1
+http://ts-iptv.dyndns.tv:8000/live/mario/nunes/41.ts
+#EXTINF:-1,Benfica TV 2
+http://ts-iptv.dyndns.tv:8000/live/mario/nunes/42.ts
+#EXTINF:-1,A BOLA TV
+http://ts-iptv.dyndns.tv:8000/live/mario/nunes/43.ts
 
 #EXTINF:-1,TVCine 1
 http://ts-iptv.dyndns.tv:8000/live/mario/nunes/20.ts
