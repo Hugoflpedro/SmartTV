@@ -82,12 +82,7 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUr
 #EXTINF:-1,CANAL CINE
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
 
-
-#EXTINF:0,BTV 1 HD
-http://painel.soeu.ws:8000/live/LG/LG/245.ts
-#EXTINF:0,BTV 1
-http://painel.soeu.ws:8000/live/LG/LG/288.ts
-#EXTINF:0,BTV 2 HD
-http://painel.soeu.ws:8000/live/LG/LG/209.ts
-#EXTINF:0,BTV 2
-http://painel.soeu.ws:8000/live/LG/LG/685.ts
+#EXTINF:-1,Benfica TV 1
+http://ts-iptv.dyndns.tv:8000/live/mario/nunes/41.ts
+#EXTINF:-1,Benfica TV 2
+http://ts-iptv.dyndns.tv:8000/live/mario/nunes/42.ts
